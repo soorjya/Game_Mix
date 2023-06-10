@@ -46,8 +46,8 @@ python snake.py
 
 
 ## Customization
-- Adjust the game settings in the config.py file, such as the window size, snake speed, and food appearance frequency.
-- Modify the game assets in the assets directory, such as the snake and food images, to give the game a personalized touch.
+- Adjust the game settings in the `snake.py` file, such as the window size, snake speed, and food appearance frequency.
+- Modify the game assets in the `assets` directory, such as the snake and food images, to give the game a personalized touch.
 
 
 ## Contributing
