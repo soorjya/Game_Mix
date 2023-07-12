@@ -18,6 +18,10 @@ You can try out the live demo of the Tic Tac Toe game by cloning the repository.
 
 These instructions will help you get a copy of the project up and running on your local machine.
 
+
+![tictactoe](https://github.com/soorjya/Game_Mix/assets/99492724/65eb345a-dafb-4869-8bc9-4e28b58e76da)
+
+
 ### Prerequisites
 
 - Web browser (Chrome, Firefox, Safari, etc.)
