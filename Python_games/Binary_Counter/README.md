@@ -20,7 +20,7 @@ The Binary Counter Program is designed to count numbers using binary representat
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/binary-counter.git`
+1. Clone the repository: `git clone https://github.com/soorjya/binary-counter.git`
 2. Navigate to the project directory: `cd binary-counter`
 
 ## Screenshot
