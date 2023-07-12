@@ -36,7 +36,7 @@ Hangman is a classic word guessing game implemented in Python. It provides an in
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/hangman-game.git
+git clone https://github.com/soorjya/hangman-game.git
 ```
 2. Navigate to the project directory:
 ```bash
