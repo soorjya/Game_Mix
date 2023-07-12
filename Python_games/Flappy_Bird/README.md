@@ -11,7 +11,7 @@ This repository contains a Flappy Bird game implemented in Python. The game is a
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/flappy-bird-game.git
+   git clone https://github.com/soorjya/flappy-bird-game.git
 
 2. Install the required dependencies:
 ```sh
