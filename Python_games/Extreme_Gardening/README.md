@@ -40,7 +40,7 @@ A simple gardening game developed using Pygame.
 
 1. Clone the repository:
 ```markdown
- git clone https://github.com/your-username/extreme-gardening.git
+ git clone https://github.com/soorjya/extreme-gardening.git
 ```
 
 2. Install the required dependencies:
