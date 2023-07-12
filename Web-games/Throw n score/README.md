@@ -14,7 +14,7 @@ Throw 'n Score is an exciting multiplayer game developed as part of GSSOC'23 (Gi
 
 
 ## Getting Started
-1. Clone the repository: `git clone https://github.com/your-username/throw-n-score.git`
+1. Clone the repository: `git clone https://github.com/soorjya/throw-n-score.git`
 2. Install the necessary dependencies: `npm install`
 3. Start the game server: `npm start`
 4. Open the game in your preferred web browser: `http://localhost:3000`
