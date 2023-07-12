@@ -17,7 +17,7 @@ This repository contains a web-based Tetris game implemented using HTML, CSS, an
 
 To run the Tetris game locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/tetris.git`
+1. Clone the repository: `git clone https://github.com/soorjya/tetris.git`
 2. Navigate to the project directory: `cd tetris`
 3. Open the `index.html` file in your web browser.
 
