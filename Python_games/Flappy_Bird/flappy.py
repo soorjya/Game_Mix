@@ -133,6 +133,7 @@ while True:
 				flap_sound.play()
  
 			if event.key == pygame.K_SPACE and game_active == False:
+
 				game_active = True
 				pipe_list.clear()
 				bird_rectangle.center = (100, 512)
@@ -188,3 +189,4 @@ while True:
 
 	pygame.display.update()
 	clock.tick(120)  
+
